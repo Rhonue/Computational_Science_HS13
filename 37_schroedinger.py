@@ -13,7 +13,7 @@ import numpy.fft as ft
 import scipy
 import matplotlib
 import matplotlib.pyplot as plt
-from tkinter import *
+from Tkinter import *
 
 def schroedinger(psi,x):
     return None
